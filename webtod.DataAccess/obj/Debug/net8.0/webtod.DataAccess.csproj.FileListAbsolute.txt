@@ -1,0 +1,14 @@
+/home/zhenya/dotnet/webtod/webtod.DataAccess/bin/Debug/net8.0/webtod.DataAccess.deps.json
+/home/zhenya/dotnet/webtod/webtod.DataAccess/bin/Debug/net8.0/webtod.DataAccess.runtimeconfig.json
+/home/zhenya/dotnet/webtod/webtod.DataAccess/bin/Debug/net8.0/webtod.DataAccess.dll
+/home/zhenya/dotnet/webtod/webtod.DataAccess/bin/Debug/net8.0/webtod.DataAccess.pdb
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.csproj.AssemblyReference.cache
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.AssemblyInfoInputs.cache
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.AssemblyInfo.cs
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.csproj.CoreCompileInputs.cache
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.dll
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/refint/webtod.DataAccess.dll
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.pdb
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/webtod.DataAccess.genruntimeconfig.cache
+/home/zhenya/dotnet/webtod/webtod.DataAccess/obj/Debug/net8.0/ref/webtod.DataAccess.dll
